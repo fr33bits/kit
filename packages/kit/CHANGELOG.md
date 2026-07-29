@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 3.0.0-next.14
+
+### Minor Changes
+
+- feat: allow adapters to provide a `customHandler` that handles requests to the server ([#16464](https://github.com/sveltejs/kit/pull/16464))
+
 ## 3.0.0-next.13
 
 ### Major Changes
